@@ -64,7 +64,7 @@ const projectsData: Project[] = [
   },
   {
     id: 4,
-    title: 'Arduino-based Real-Time Temperature Monitor',
+    title: 'Affordable Haptic Therapy for Stroke Recovery using Haptic sensor and ESP32 for realtime data transmission',
     category: 'Biomedical Hardware & Sensors',
     brief: 'Designed a real-time warning and logging temperature monitor to safeguard medical incubator inventories.',
     problem: 'Temperature fluctuations in hospital incubators or vaccine storage units are fatal to sensitive biomaterials, but continuous logging is rarely automated in resource-limited clinics.',
