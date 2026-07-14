@@ -26,7 +26,7 @@ const achievements = [
     icon: Award,
     title: 'Biomedical Innovation Finalist',
     category: 'Hackathons & Competitions',
-    detail: 'Recognized for designing a low-cost, Arduino-based real-time incubator temperature warning monitor.',
+    detail: 'Affordable Haptic Therapy for Stroke Recovery using Haptic sensor and ESP32 for realtime data transmission.',
   },
 ];
 
